@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+    margin: 0;
+}
+
+.backgroundImage{
+    background-image: url("DSC05616-1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%; 
+    width: 100%;
+    color: white;
+    position: absolute; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+}
+
+#nav-table{
+    display: flexbox;
+    width: 50%;
+    text-align: center;
+    padding: 3.5%;
+}
+
+
+#nav-table td{
+    font-size: 25px;
+    margin: auto;
+    cursor: pointer;
+    text-align: center;
+}
+
+#myBigname{
+    text-align: center;
+    font-size: 70px;
+    padding: auto;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+
+#introduction{
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    width: 90%;
+    padding: auto;
+    margin: auto;
+    margin-top: 8%;
+}
+
+#Contact{
+    margin: auto;
+    margin-top: 40%;
+    padding: auto;
+    margin-top: 5%;
+    text-align: center;
+}
