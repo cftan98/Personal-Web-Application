@@ -1,4 +1,3 @@
 # Personal-Web-Application
-@copyright
 
-Personal Web Application, all rights reserved.
+This is a very simple static website using HTML, CSS and Javascript only.
